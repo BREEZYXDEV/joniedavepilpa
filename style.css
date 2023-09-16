@@ -82,7 +82,7 @@ h3{
 
 .overlay{
     position: absolute; /* Position the text absolutely within the container */
-            top: 220%; /* Adjust the vertical position */
+            top: 225%; /* Adjust the vertical position */
             left: 50%; /* Adjust the horizontal position */
             transform: translate(-50%, -50%); /* Center the text horizontally and vertically */
             padding: 2%;
@@ -112,7 +112,7 @@ h6{
 }
 .text-overlayings{
     position: absolute; /* Position the text absolutely within the container */
-            top: 335%; /* Adjust the vertical position */
+            top: 340%; /* Adjust the vertical position */
             left: 30%; /* Adjust the horizontal position */
             transform: translate(-50%, -50%); /* Center the text horizontally and vertically */
             margin-left: 5%;
